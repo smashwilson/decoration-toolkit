@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "decoration-toolkit:toggle"
+    "atom-workspace": "decoration-toolkit:add-decoration"
   },
   "repository": "https://github.com/atom/decoration-toolkit",
   "license": "MIT",
