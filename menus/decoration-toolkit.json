@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle decoration-toolkit",
+        "command": "decoration-toolkit:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "decoration-toolkit",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "decoration-toolkit:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
